@@ -62,10 +62,11 @@ Each section includes three repositories. They show different parts of my work, 
 | Area | Technologies |
 | --- | --- |
 | **Languages** | JavaScript, PHP, C# |
-| **Frontend** | React, Vue.js, Vue Router, React Router, HTML, CSS, Sass, Bootstrap |
+| **Frontend** | React, Vue.js, Vue Router, React Router, HTML, CSS, Sass, Bootstrap, Tailwind |
 | **Backend** | Laravel, ASP.NET Core MVC |
 | **Data access** | Entity Framework Core, Laravel Eloquent |
-| **Database** | SQL Server (including LocalDB) |
+| **Database** | SQL Server (including LocalDB), MySQL |
+| **Testing & tooling** | Playwright, Git, GitHub |
 
 ### How I approach development
 
